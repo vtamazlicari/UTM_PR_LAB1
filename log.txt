@@ -1,0 +1,8 @@
+file processed: name=Test1.java, size=595 bytes
+file processed: name=Test2.java, size=444 bytes
+file processed: name=Test3.java, size=437 bytes
+file processed: name=Test4.java, size=328 bytes
+file processed: name=Test1.java, size=595 bytes
+file processed: name=Test2.java, size=444 bytes
+file processed: name=Test3.java, size=437 bytes
+file processed: name=Test4.java, size=328 bytes

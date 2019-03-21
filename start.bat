@@ -1,0 +1,1 @@
+java -cp "bin;lib/*" example15.Test

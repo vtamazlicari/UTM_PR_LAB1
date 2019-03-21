@@ -1,0 +1,1 @@
+javac -d bin -sourcepath src -cp "lib/*" src/example15/Test.java
